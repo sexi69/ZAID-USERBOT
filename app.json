@@ -6,7 +6,7 @@
     "env": {
         "STRING_SESSION1": {
             "description": "pyrogram string session here",
-            "required": true
+            "required": false
         },
         "STRING_SESSION2": {
             "description": "pyrogram string session here",
